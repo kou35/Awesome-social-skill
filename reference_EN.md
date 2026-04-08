@@ -1,4 +1,4 @@
-# Awesome Digital Souls 🫧 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Social Skill 🫧 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [中文](reference.md) | English
 
@@ -9,7 +9,7 @@ If humanity has already reached the stage where "digital immortality" is possibl
 
 ## Contents 🗂️
 
-- [Awesome Digital Souls 🫧 ](#awesome-digital-souls--)
+- [Awesome Social Skill 🫧 ](#awesome-social-skill--)
   - [Contents 🗂️](#contents-)
   - [What Is This 🧠](#what-is-this-)
   - [Collections 🧩](#collections-)
