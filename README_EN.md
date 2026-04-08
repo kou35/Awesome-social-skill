@@ -22,7 +22,7 @@
   - [Why This Repository Exists 🤔](#why-this-repository-exists-)
   - [Contents 🗂️](#contents-️)
   - [Collections 🧩](#collections-)
-    - [Workplace & Social Roles ☕](#workplace--social-roles-)
+    - [Workplace \& Social Roles ☕](#workplace--social-roles-)
     - [Intimate Relationships ❤️](#intimate-relationships-️)
     - [Cyber Celebrities 🌟](#cyber-celebrities-)
     - [Public Figures 📚](#public-figures-)
@@ -41,7 +41,7 @@
 - [Yourself](https://github.com/notdog1998/yourself-skill): A skill for self-projection and inner dialogue. ![GitHub Repo stars](https://img.shields.io/github/stars/notdog1998/yourself-skill?style=social)
 - [Nuwa](https://github.com/alchaincyf/nuwa-skill): A character-based skill extended from a mythological figure. ![GitHub Repo stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=social)
 - [Digital Life](https://github.com/wildbyteai/digital-life): A project focused on digital personality and companionship experiences. ![GitHub Repo stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=social)
-- [Vengeful Ghost](https://github.com/Trailblazer-Aha/vengefulghost-skill): A persona skill with a strong character setup and emotional intensity. ![GitHub Repo stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengefulghost-skill?style=social)
+
 
 <a id="relationship"></a>
 

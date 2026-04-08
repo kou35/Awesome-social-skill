@@ -41,7 +41,7 @@
 - [自己](https://github.com/notdog1998/yourself-skill): 面向自我投射和自我对话的 skill。 ![GitHub Repo stars](https://img.shields.io/github/stars/notdog1998/yourself-skill?style=social)
 - [女娲](https://github.com/alchaincyf/nuwa-skill): 神话人物设定延展出的角色型 skill。 ![GitHub Repo stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=social)
 - [数字人生](https://github.com/wildbyteai/digital-life): 关注数字化人格与陪伴体验的项目。 ![GitHub Repo stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=social)
-- [厉鬼](https://github.com/Trailblazer-Aha/vengefulghost-skill): 带有强角色设定和情绪张力的 persona skill。 ![GitHub Repo stars](https://img.shields.io/github/stars/Trailblazer-Aha/vengefulghost-skill?style=social)
+
 
 <a id="relationship"></a>
 
