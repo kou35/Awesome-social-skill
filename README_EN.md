@@ -36,45 +36,45 @@
 
 ### Workplace & Social Roles ☕
 
-- [Colleague](https://github.com/titanwings/colleague-skill): A skill focused on coworker interaction and office relationships. ![GitHub Repo stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=social)
-- [Boss](https://github.com/vogtsw/boss-skills): A skill built around the perspective and style of workplace managers. ![GitHub Repo stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=social)
-- [Yourself](https://github.com/notdog1998/yourself-skill): A skill for self-projection and inner dialogue. ![GitHub Repo stars](https://img.shields.io/github/stars/notdog1998/yourself-skill?style=social)
-- [Nuwa](https://github.com/alchaincyf/nuwa-skill): A character-based skill extended from a mythological figure. ![GitHub Repo stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=social)
-- [Digital Life](https://github.com/wildbyteai/digital-life): A project focused on digital personality and companionship experiences. ![GitHub Repo stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=social)
+- [Colleague](https://github.com/titanwings/colleague-skill): Transforming cold farewells into warm skills. Welcome to Digital Life 1.0. ![GitHub Repo stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=social)
+- [Boss](https://github.com/vogtsw/boss-skills): Boss.skills. Alchemize your boss into a token, and keep the liberation of productivity for yourself. ![GitHub Repo stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=social)
+- [Yourself](https://github.com/notdog1998/yourself-skill): Instead of distilling others, distill yourself. Welcome to digital immortality. Inspired by `colleague-skill`. ![GitHub Repo stars](https://img.shields.io/github/stars/notdog1998/yourself-skill?style=social)
+- [Nuwa](https://github.com/alchaincyf/nuwa-skill): Why should the next employee you distill be just a colleague? Distill how anyone thinks: mental models, decision heuristics, and expressive DNA. ![GitHub Repo stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=social)
+- [Digital Life](https://github.com/wildbyteai/digital-life): `digital-life.skills` — use digital traces to see your real self. ![GitHub Repo stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=social)
 
 
 <a id="relationship"></a>
 
 ### Intimate Relationships ❤️
 
-- [Ex](https://github.com/titanwings/ex-skill): A skill centered on ex-relationship scenarios and emotional memory. ![GitHub Repo stars](https://img.shields.io/github/stars/titanwings/ex-skill?style=social)
-- [Crush](https://github.com/NatalieCao323/crush-skill): A skill for crushes, attraction, and ambiguous relationship scenarios. ![GitHub Repo stars](https://img.shields.io/github/stars/NatalieCao323/crush-skill?style=social)
-- [Current Partner](https://github.com/KingOfLitangDz/current-partner-skill): A skill for companionship in an ongoing intimate relationship. ![GitHub Repo stars](https://img.shields.io/github/stars/KingOfLitangDz/current-partner-skill?style=social)
+- [Ex](https://github.com/titanwings/ex-skill): For the one you cannot forget. It's giving rebirth era. Welcome to Digital Life 1.0. ![GitHub Repo stars](https://img.shields.io/github/stars/titanwings/ex-skill?style=social)
+- [Crush](https://github.com/NatalieCao323/crush-skill): `crush.skill` — A Bayesian memory engine for your situationship. ![GitHub Repo stars](https://img.shields.io/github/stars/NatalieCao323/crush-skill?style=social)
+- [Current Partner](https://github.com/KingOfLitangDz/current-partner-skill): Distill your current-partner skill into a cyber companion with simulated dialogue and memory for key moments such as anniversaries. ![GitHub Repo stars](https://img.shields.io/github/stars/KingOfLitangDz/current-partner-skill?style=social)
 
 <a id="cyber-celebs"></a>
 
 ### Cyber Celebrities 🌟
 
-- [Fengge Wangming Tianya](https://github.com/rottenpen/fengge-wangmingtianya-perspective): A stylized project based on a recognizable internet persona. ![GitHub Repo stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=social)
-- [Hu Chenfeng](https://github.com/123pyLeo/hu-chen-feng-skill): A skill built around a distinctive personal temperament and speaking style. ![GitHub Repo stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=social)
-- [Tong Jincheng](https://github.com/hotcoffeeshake/tong-jincheng-skill): A character-driven skill centered on a vivid public persona. ![GitHub Repo stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=social)
-- [Zhang Xuefeng](https://github.com/alchaincyf/zhangxuefeng-skill): A celebrity skill with a highly recognizable personal expression style. ![GitHub Repo stars](https://img.shields.io/github/stars/alchaincyf/zhangxuefeng-skill?style=social)
-- [Yuelao Aoye](https://github.com/cyber-immortal/cyber-figures): A cyber persona entry included in `cyber-figures`. ![GitHub Repo stars](https://img.shields.io/github/stars/cyber-immortal/cyber-figures?style=social)
-- [Tingquan Jianbao](https://github.com/cyber-immortal/cyber-figures): A persona-style entry included in `cyber-figures`. ![GitHub Repo stars](https://img.shields.io/github/stars/cyber-immortal/cyber-figures?style=social)
-- [Yongge Talks Catering](https://github.com/SeanSkills/yongge-skill): A skill inspired by a content creator in a vertical industry niche. ![GitHub Repo stars](https://img.shields.io/github/stars/SeanSkills/yongge-skill?style=social)
-- [Xiangfu Ge](https://github.com/YifeiCAO/shandong-xiangfu): A role project combining regional flavor with a distinctive personality. ![GitHub Repo stars](https://img.shields.io/github/stars/YifeiCAO/shandong-xiangfu?style=social)
-- [Justin Sun](https://github.com/xuzhouli2020-design/Cyber-Sun-Ge): A project for cyber-persona expression and opinion simulation. ![GitHub Repo stars](https://img.shields.io/github/stars/xuzhouli2020-design/Cyber-Sun-Ge?style=social)
-- [Uploader](https://github.com/jiemojiemo/up-skill): A skill in the direction of general content-creator personas. ![GitHub Repo stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=social)
+- [Fengge Wangming Tianya](https://github.com/rottenpen/fengge-wangmingtianya-perspective) ![GitHub Repo stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=social)
+- [Hu Chenfeng](https://github.com/123pyLeo/hu-chen-feng-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=social)
+- [Tong Jincheng](https://github.com/hotcoffeeshake/tong-jincheng-skill): Tong Jincheng Perspective Skill — analyze relationships through the mindset framework of the "patriarch of deep affection." ![GitHub Repo stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=social)
+- [Zhang Xuefeng](https://github.com/alchaincyf/zhangxuefeng-skill): `zhangxuefeng.skill` — Zhang Xuefeng's cognitive operating system. A practical thinking framework for college applications, graduate school, and career planning. Generated by `nuwa.skill`. ![GitHub Repo stars](https://img.shields.io/github/stars/alchaincyf/zhangxuefeng-skill?style=social)
+- [Yuelao Aoye](https://github.com/cyber-immortal/cyber-figures): Cyber Figures Library — distilling China's most recognizable internet personalities into AI Skills / Claude Code Skills / LLM character distillation. ![GitHub Repo stars](https://img.shields.io/github/stars/cyber-immortal/cyber-figures?style=social)
+- [Tingquan Jianbao](https://github.com/cyber-immortal/cyber-figures): Cyber Figures Library — distilling China's most recognizable internet personalities into AI Skills / Claude Code Skills / LLM character distillation. ![GitHub Repo stars](https://img.shields.io/github/stars/cyber-immortal/cyber-figures?style=social)
+- [Yongge Talks Catering](https://github.com/SeanSkills/yongge-skill): Let Yongge, the spiritual mentor of the catering industry, live on in cyberspace. ![GitHub Repo stars](https://img.shields.io/github/stars/SeanSkills/yongge-skill?style=social)
+- [Xiangfu Ge](https://github.com/YifeiCAO/shandong-xiangfu) ![GitHub Repo stars](https://img.shields.io/github/stars/YifeiCAO/shandong-xiangfu?style=social)
+- [Justin Sun](https://github.com/xuzhouli2020-design/Cyber-Sun-Ge): "If you can chat with AI, don't chat with humans." — Brother Sun ![GitHub Repo stars](https://img.shields.io/github/stars/xuzhouli2020-design/Cyber-Sun-Ge?style=social)
+- [Uploader](https://github.com/jiemojiemo/up-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=social)
 
 <a id="figures"></a>
 
 ### Public Figures 📚
 
-- [Qiushi](https://github.com/HughYau/qiushi-skill): A skill focused on viewpoint expression and ideological style. ![GitHub Repo stars](https://img.shields.io/github/stars/HughYau/qiushi-skill?style=social)
-- [Selected Works of Mao](https://github.com/leezythu/maoxuan-skill): A skill centered on classic texts and distilled ideological style. ![GitHub Repo stars](https://img.shields.io/github/stars/leezythu/maoxuan-skill?style=social)
+- [Qiushi](https://github.com/HughYau/qiushi-skill): Qiushi Skill — extract one master principle and nine methodological tools from the instructor's thought system to systematically arm the AI brain. ![GitHub Repo stars](https://img.shields.io/github/stars/HughYau/qiushi-skill?style=social)
+- [Selected Works of Mao](https://github.com/leezythu/maoxuan-skill): `maoxuan.skill` — let Mao Zedong's thinking framework help you analyze problems, devise strategies, and see through essence. 7 core mental models, 10 decision heuristics, and a complete expressive DNA. Not slogan repetition, but using his cognitive framework to understand problems. ![GitHub Repo stars](https://img.shields.io/github/stars/leezythu/maoxuan-skill?style=social)
 
 <a id="others"></a>
 
 ### Others 🧪
 
-- [anti-distill](https://github.com/leilei926524-tech/anti-distill): An adjacent project related to distillation defense. ![GitHub Repo stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=social)
+- [anti-distill](https://github.com/leilei926524-tech/anti-distill): Anti-distillation Skill: clean the Skill files you were forced to write so they look complete while keeping the core knowledge for yourself. ![GitHub Repo stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=social)
